@@ -1,0 +1,33 @@
+📊 Perhitungan Total Penjualan di Excel
+Deskripsi
+Proyek ini berfokus pada perhitungan total penjualan menggunakan Microsoft Excel berdasarkan data berat barang dan harga per kilogram. Data diolah untuk menghasilkan total harga per item dan total keseluruhan secara akurat.
+
+Dataset
+Data terdiri dari:
+Nama barang
+Berat (kg)
+Harga per kg
+Contoh:
+Jeruk | 5 kg | 25.000 → Total: 125.000
+
+Tools & Teknik yang Digunakan
+Microsoft Excel
+Perhitungan dasar (perkalian & penjumlahan)
+Pengolahan data numerik
+Formatting angka (currency)
+
+Hasil
+Total harga per barang berhasil dihitung
+Total penjualan keseluruhan diperoleh (Rp 844.000)
+Data tersusun rapi dan mudah dipahami
+
+Tujuan Proyek
+Melatih perhitungan dasar di Excel
+Memahami konsep total penjualan
+Meningkatkan ketelitian dalam pengolahan data angka
+
+Insight
+Perhitungan sederhana seperti total penjualan merupakan dasar penting dalam analisis data dan pengambilan keputusan, terutama dalam konteks bisnis.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pengolahan data numerik menggunakan Microsoft Excel sebagai bagian dari pengembangan skill di bidang data.
